@@ -1,0 +1,32 @@
+id — идентификатор.
+diagnosis — диагноз.
+radius_mean — средний радиус.
+texture_mean — средняя текстура.
+perimeter_mean — средний периметр.
+area_mean — средняя площадь.
+smoothness_mean — средняя гладкость.
+compactness_mean — средняя компактность.
+concavity_mean — средняя вогнутость.
+concave points_mean — среднее количество вогнутых точек.
+symmetry_mean — средняя симметрия.
+fractal_dimension_mean — средняя фрактальная размерность.
+radius_se — стандартная ошибка радиуса.
+texture_se — стандартная ошибка текстуры.
+perimeter_se — стандартная ошибка периметра.
+area_se — стандартная ошибка площади.
+smoothness_se — стандартная ошибка гладкости.
+compactness_se — стандартная ошибка компактности.
+concavity_se — стандартная ошибка вогнутости.
+concave points_se — стандартная ошибка количества вогнутых точек.
+symmetry_se — стандартная ошибка симметрии.
+fractal_dimension_se — стандартная ошибка фрактальной размерности.
+radius_worst — наибольший радиус.
+texture_worst — наибольшая текстура.
+perimeter_worst — наибольший периметр.
+area_worst — наибольшая площадь.
+smoothness_worst — наибольшая гладкость.
+compactness_worst — наибольшая компактность.
+concavity_worst — наибольшая вогнутость.
+concave points_worst — наибольшее количество вогнутых точек.
+symmetry_worst — наибольшая симметрия.
+fractal_dimension_worst — наибольшая фрактальная размерность.
